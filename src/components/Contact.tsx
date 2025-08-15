@@ -18,12 +18,6 @@ const Contact = () => {
       href: "mailto:stellar@example.com"
     },
     {
-      icon: Phone,
-      label: "Phone",
-      value: "+91 6290 534 749",
-      href: "tel:+15551234567"
-    },
-    {
       icon: MapPin,
       label: "Location",
       value: "West Bengal, India",
