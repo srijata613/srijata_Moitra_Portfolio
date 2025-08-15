@@ -37,12 +37,6 @@ const socialLinks = [
         label: "LinkedIn",
         href: "https://www.linkedin.com/in/srijata-maitra-a455062ba/",
         color: "hover:text-blue-400"
-    },
-    {
-        icon: Instagram,
-        label: "Instagram",
-        href: "https://www.instagram.com/shini_095/",
-        color: "hover:text-pink-500"
     }
 ];
 
