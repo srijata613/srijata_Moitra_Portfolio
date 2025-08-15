@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: "Habit Tracker App",
       description: "A simple app to build and track daily habits with reminders and progress insights.",
-      category: "Frontend",
+      category: "Mobile",
       image: "/api/placeholder/600/400",
       technologies: ["Dart", "Swift", "C++", "Flutter"],
       github: "https://github.com/srijata613/habit_tracker.git",
