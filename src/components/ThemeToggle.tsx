@@ -18,7 +18,7 @@ const ThemeToggle = () => {
   return (
     <motion.button
       onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-      className="fixed top-10 right-4 z-50 glass-card p-3 hover:glow-accent transition-smooth"
+      className="fixed top-15 right-4 z-50 glass-card p-3 hover:glow-accent transition-smooth"
       whileHover={{ scale: 1.1 }}
       whileTap={{ scale: 0.95 }}
       data-cursor="pointer"
